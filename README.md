@@ -1,16 +1,15 @@
 ## Hi there 👋
+About Me
+I’m a Software Engineering student at Universidad de Puerto Rico Mayaguez, with a minor in Project Management. I'm passionate about developing innovative solutions, improving user experiences, and solving complex problems through code.
 
-<!--
-**AleDiazz/AleDiazz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Currently exploring machine learning, and full-stack development.
+🚀 I enjoy working on projects that make a difference
+💼 I’ve interned at NAGNOI LLC and Jacobs Engineering
+Languages: Python, Java, SQL, C++, HTML/CSS
+Areas of Interest: Neural Networks, Software Design, Cybersecurity
 
-Here are some ideas to get you started:
+📫 Email: alejandro.diaz10@upr.edu
+📫 Email: alejandro.diaz.sms@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/alejandroadiazz/
+🌐 Portfolio: https://alejodiazportfolio.netlify.app/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
